@@ -27,11 +27,6 @@ pip install -e .
 
 ## Usage
 
-### Train Model
-```bash
-python src/components/data_ingestion.py
-```
-
 ### Run Web App
 ```bash
 python app.py
